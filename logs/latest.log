@@ -1,0 +1,22 @@
+[27jul.2025 00:04:22.924] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/53584, l='ServerLevel[world]', x=1305.43, y=97.00, z=-1348.37] died, message: 'Villager was slain by Zombie'
+[27jul.2025 00:33:47.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <facu_142> se te desconecto el ds
+[27jul.2025 00:34:01.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ninozalaya> toy yo
+[27jul.2025 00:34:20.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <facu_142> tu Discord
+[27jul.2025 00:34:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <facu_142> ripió
+[27jul.2025 00:41:09.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 was slain by Enderman
+[27jul.2025 00:41:20.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to ninozalaya]
+[27jul.2025 00:41:20.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 moved too quickly! -467.2496850496573,-29.0,438.0821819560806
+[27jul.2025 00:45:27.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 fell from a high place
+[27jul.2025 00:48:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to ninozalaya]
+[27jul.2025 00:48:02.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 moved too quickly! -475.5826650249073,-41.0,449.84403171766303
+[27jul.2025 00:48:02.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 moved too quickly! -475.5826650249073,-41.0,449.84403171766303
+[27jul.2025 00:49:16.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 fell from a high place
+[27jul.2025 00:49:22.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to ninozalaya]
+[27jul.2025 01:01:52.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ninozalaya fell from a high place
+[27jul.2025 01:02:13.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ninozalaya: Teleported ninozalaya to facu_142]
+[27jul.2025 01:03:39.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ninozalaya: Teleported ninozalaya to 1317.500000, 64.500000, -1507.500000]
+[27jul.2025 01:03:39.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to 1382.500000, 66.500000, -1489.500000]
+[27jul.2025 01:06:45.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninozalaya lost connection: Disconnected
+[27jul.2025 01:06:45.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ninozalaya left the game
+[27jul.2025 01:06:48.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 lost connection: Disconnected
+[27jul.2025 01:06:48.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 left the game
