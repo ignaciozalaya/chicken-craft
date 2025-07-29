@@ -1,22 +1,88 @@
-[27jul.2025 00:04:22.924] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/53584, l='ServerLevel[world]', x=1305.43, y=97.00, z=-1348.37] died, message: 'Villager was slain by Zombie'
-[27jul.2025 00:33:47.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <facu_142> se te desconecto el ds
-[27jul.2025 00:34:01.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ninozalaya> toy yo
-[27jul.2025 00:34:20.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <facu_142> tu Discord
-[27jul.2025 00:34:23.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <facu_142> ripió
-[27jul.2025 00:41:09.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 was slain by Enderman
-[27jul.2025 00:41:20.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to ninozalaya]
-[27jul.2025 00:41:20.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 moved too quickly! -467.2496850496573,-29.0,438.0821819560806
-[27jul.2025 00:45:27.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 fell from a high place
-[27jul.2025 00:48:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to ninozalaya]
-[27jul.2025 00:48:02.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 moved too quickly! -475.5826650249073,-41.0,449.84403171766303
-[27jul.2025 00:48:02.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 moved too quickly! -475.5826650249073,-41.0,449.84403171766303
-[27jul.2025 00:49:16.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 fell from a high place
-[27jul.2025 00:49:22.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to ninozalaya]
-[27jul.2025 01:01:52.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ninozalaya fell from a high place
-[27jul.2025 01:02:13.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ninozalaya: Teleported ninozalaya to facu_142]
-[27jul.2025 01:03:39.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ninozalaya: Teleported ninozalaya to 1317.500000, 64.500000, -1507.500000]
-[27jul.2025 01:03:39.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to 1382.500000, 66.500000, -1489.500000]
-[27jul.2025 01:06:45.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninozalaya lost connection: Disconnected
-[27jul.2025 01:06:45.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ninozalaya left the game
-[27jul.2025 01:06:48.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 lost connection: Disconnected
-[27jul.2025 01:06:48.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 left the game
+[29jul.2025 00:05:12.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dante547 was kicked for floating too long!
+[29jul.2025 00:05:12.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dante547 lost connection: Flying is not enabled on this server
+[29jul.2025 00:05:12.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante547 left the game
+[29jul.2025 00:05:47.291] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dante547 is 5d46072c-3ab5-4e9e-a1a7-61d518cd6f9a
+[29jul.2025 00:05:48.565] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39965f3a
+[29jul.2025 00:05:48.578] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dante547[/26.82.230.226:52357] logged in with entity id 91760 at (699.820092917577, 127.79673560066868, -4002.089244030245)
+[29jul.2025 00:05:48.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante547 joined the game
+[29jul.2025 00:06:23.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to 1382.500000, 66.500000, -1489.500000]
+[29jul.2025 00:06:23.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 moved too quickly! 39.891622121370574,1.9375,7.275943936618432
+[29jul.2025 00:11:47.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ninozalaya: Teleported ninozalaya to facu_142]
+[29jul.2025 00:11:55.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ninozalaya: Teleported ninozalaya to Dante547]
+[29jul.2025 00:11:55.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninozalaya moved too quickly! -691.9909972755634,29.0,-2580.8863828442118
+[29jul.2025 00:11:55.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninozalaya moved too quickly! -691.9909972755634,29.0,-2580.8863828442118
+[29jul.2025 00:12:47.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ninozalaya: Teleported ninozalaya to facu_142]
+[29jul.2025 00:12:47.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninozalaya moved too quickly! 668.3970827780588,-60.0,2561.3748404398816
+[29jul.2025 00:12:47.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninozalaya moved too quickly! 668.3970827780588,-60.0,2561.3748404398816
+[29jul.2025 00:12:58.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ninozalaya: Made Dante547 a server operator]
+[29jul.2025 00:13:10.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dante547: Teleported Dante547 to facu_142]
+[29jul.2025 00:17:24.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ninozalaya has made the advancement [Ol' Betsy]
+[29jul.2025 00:18:32.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <facu_142> zzzzzzzzzzzz
+[29jul.2025 00:18:35.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ninozalaya> zzzz
+[29jul.2025 00:19:00.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ninozalaya: Teleported ninozalaya to 790.500000, 69.500000, -2827.500000]
+[29jul.2025 00:20:12.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dante547: Teleported Dante547 to ninozalaya]
+[29jul.2025 00:21:21.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to ninozalaya]
+[29jul.2025 00:21:22.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 moved too quickly! -622.7575673925529,-1.5,-1901.5265845033077
+[29jul.2025 00:21:22.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 moved too quickly! -622.7575673925529,-1.5,-1901.5265845033077
+[29jul.2025 00:21:32.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dante547: Teleported Dante547 to ninozalaya]
+[29jul.2025 00:21:32.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dante547 moved too quickly! 3.569389635461789,3.0,-68.52067732091655
+[29jul.2025 00:26:04.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to ninozalaya]
+[29jul.2025 00:26:04.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 moved too quickly! -12.828625214053886,-6.0,-83.54489808972949
+[29jul.2025 00:29:19.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dante547: Teleported Dante547 to ninozalaya]
+[29jul.2025 00:35:57.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <facu_142> zzzzzzzzzzzzzzzzzzzzzzzzz
+[29jul.2025 00:36:04.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dante547> zzzzzzzzzzzzzzzzz
+[29jul.2025 00:36:06.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <facu_142> zzzzzzzzzzz
+[29jul.2025 00:36:09.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dante547> zzzzzzzzzzzz
+[29jul.2025 00:42:43.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dante547 lost connection: Disconnected
+[29jul.2025 00:42:43.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante547 left the game
+[29jul.2025 00:42:55.422] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dante547 is 5d46072c-3ab5-4e9e-a1a7-61d518cd6f9a
+[29jul.2025 00:42:56.706] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@75b965a3
+[29jul.2025 00:42:56.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dante547[/26.82.230.226:52576] logged in with entity id 104256 at (1014.299006658386, 94.0, -4595.702252655754)
+[29jul.2025 00:42:56.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante547 joined the game
+[29jul.2025 00:44:40.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to 1382.500000, 66.500000, -1489.500000]
+[29jul.2025 00:47:17.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dante547: Teleported Dante547 to 1382.500000, 66.500000, -1489.500000]
+[29jul.2025 00:47:29.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to ninozalaya]
+[29jul.2025 00:48:14.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dante547 lost connection: Disconnected
+[29jul.2025 00:48:14.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante547 left the game
+[29jul.2025 00:51:07.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to 1382.500000, 66.500000, -1489.500000]
+[29jul.2025 00:51:07.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ninozalaya: Teleported ninozalaya to 1317.500000, 64.500000, -1507.500000]
+[29jul.2025 00:51:07.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninozalaya moved too quickly! 104.9161259175662,0.5,3322.0439482047013
+[29jul.2025 00:58:58.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ninozalaya has made the advancement [We Need to Go Deeper]
+[29jul.2025 00:59:01.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 has made the advancement [We Need to Go Deeper]
+[29jul.2025 01:00:05.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <facu_142> xaero-waypoint:portal:P:164:75:-179:12:false:0:Internal-the-nether-waypoints
+[29jul.2025 01:04:20.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 has made the advancement [Ol' Betsy]
+[29jul.2025 01:16:30.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ninozalaya: Teleported ninozalaya to 164.500000, 75.500000, -178.500000]
+[29jul.2025 01:16:35.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to 164.500000, 75.500000, -178.500000]
+[29jul.2025 01:16:35.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 moved too quickly! 134.1981330918217,-9.5,-200.25918843514137
+[29jul.2025 01:16:35.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 moved too quickly! 134.1981330918217,-9.5,-200.25918843514137
+[29jul.2025 01:27:46.683] [Netty Server IO #9/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Failed to validate message from facu_142, reasons: unknown message
+[29jul.2025 01:27:46.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 lost connection: Chat message validation failure
+[29jul.2025 01:27:46.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 left the game
+[29jul.2025 01:27:46.710] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29jul.2025 01:28:00.208] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player facu_142 is 0adb5c1c-6cb7-4d04-ab5e-fa3a993829f2
+[29jul.2025 01:28:01.611] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@cc0d1f4
+[29jul.2025 01:28:01.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facu_142[/26.91.161.184:62787] logged in with entity id 116231 at (1312.5, 68.5625, -1509.5)
+[29jul.2025 01:28:01.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 joined the game
+[29jul.2025 01:28:29.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <facu_142> a
+[29jul.2025 01:28:50.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <facu_142> z
+[29jul.2025 01:28:53.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ninozalaya> z
+[29jul.2025 01:45:30.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <facu_142> zzzzz
+[29jul.2025 01:46:05.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninozalaya lost connection: Disconnected
+[29jul.2025 01:46:05.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ninozalaya left the game
+[29jul.2025 01:46:06.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 lost connection: Disconnected
+[29jul.2025 01:46:06.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 left the game
+[29jul.2025 01:46:14.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29jul.2025 01:46:14.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: exit<--[HERE]
+[29jul.2025 01:46:15.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29jul.2025 01:46:15.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[29jul.2025 01:46:30.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29jul.2025 01:46:30.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29jul.2025 01:46:30.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29jul.2025 01:46:30.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29jul.2025 01:46:31.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29jul.2025 01:46:31.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29jul.2025 01:46:31.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29jul.2025 01:46:31.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29jul.2025 01:46:31.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29jul.2025 01:46:31.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29jul.2025 01:46:31.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
