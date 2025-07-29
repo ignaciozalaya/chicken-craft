@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-29 14:33:20 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-26 22:28:20 -0300"
@@ -368,6 +374,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-25 00:45:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-29 14:33:20 -0300"
     },
     "done": true
   },
@@ -1033,6 +1045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-29 14:33:20 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-25 00:12:08 -0300"
@@ -1358,6 +1376,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-29 14:33:20 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-07-25 00:29:08 -0300"
@@ -1472,6 +1496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-07-29 14:35:26 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-25 00:08:08 -0300"
@@ -1514,6 +1544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-29 14:33:20 -0300"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-07-29 00:59:01 -0300"
@@ -1523,6 +1559,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-25 00:12:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-07-29 14:35:26 -0300"
     },
     "done": true
   },
@@ -1740,6 +1782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-29 14:33:20 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-25 00:35:24 -0300"
@@ -1857,6 +1905,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-07-26 20:25:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-29 14:33:20 -0300"
     },
     "done": true
   },
@@ -2216,6 +2270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-29 14:09:08 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-07-25 00:12:08 -0300"
@@ -2225,6 +2285,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-25 00:35:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-29 14:33:20 -0300"
     },
     "done": true
   },
@@ -2432,6 +2498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-29 14:33:20 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-26 20:04:53 -0300"
@@ -2447,6 +2519,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-26 23:06:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-29 14:33:20 -0300"
     },
     "done": true
   },
@@ -2474,9 +2552,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-29 14:33:20 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-26 19:51:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_the_recipe": "2025-07-29 14:35:26 -0300"
     },
     "done": true
   },
@@ -2591,6 +2681,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-28 22:32:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-29 14:09:08 -0300"
     },
     "done": true
   },
