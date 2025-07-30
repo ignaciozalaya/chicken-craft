@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-07-29 23:16:04 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-07-25 00:08:08 -0300"
@@ -694,6 +700,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-07-28 20:01:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-07-29 23:16:04 -0300"
     },
     "done": true
   },
@@ -1327,6 +1339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-07-29 23:16:04 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-07-27 00:37:16 -0300"
@@ -1734,6 +1752,7 @@
       "cookie": "2025-07-28 20:51:03 -0300",
       "salmon": "2025-07-28 20:30:23 -0300",
       "melon_slice": "2025-07-28 22:49:12 -0300",
+      "cooked_rabbit": "2025-07-29 20:36:41 -0300",
       "cooked_chicken": "2025-07-26 21:01:15 -0300",
       "cooked_salmon": "2025-07-26 22:30:21 -0300",
       "carrot": "2025-07-29 01:22:01 -0300"
