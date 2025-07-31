@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-30 18:56:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-26 23:04:23 -0300"
@@ -482,6 +488,12 @@
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-07-27 00:17:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-30 19:06:56 -0300"
     },
     "done": true
   },
@@ -617,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-30 19:06:56 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-07-26 19:30:16 -0300"
@@ -628,11 +646,14 @@
       "minecraft:pillager": "2025-07-29 00:26:55 -0300",
       "minecraft:skeleton": "2025-07-25 00:16:29 -0300",
       "minecraft:hoglin": "2025-07-29 01:02:30 -0300",
+      "minecraft:guardian": "2025-07-30 18:07:58 -0300",
       "minecraft:spider": "2025-07-26 20:18:15 -0300",
       "minecraft:creeper": "2025-07-25 00:25:24 -0300",
       "minecraft:zombified_piglin": "2025-07-29 01:05:04 -0300",
+      "minecraft:cave_spider": "2025-07-30 18:40:46 -0300",
       "minecraft:piglin": "2025-07-29 01:01:36 -0300",
       "minecraft:zombie": "2025-07-25 00:16:30 -0300",
+      "minecraft:drowned": "2025-07-30 17:57:39 -0300",
       "minecraft:zombie_villager": "2025-07-26 23:05:29 -0300"
     },
     "done": false
@@ -754,6 +775,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-28 20:15:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-30 18:13:22 -0300"
     },
     "done": true
   },
@@ -925,6 +952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-30 18:56:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-26 21:10:37 -0300"
@@ -994,6 +1027,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-26 19:51:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-30 18:06:42 -0300"
     },
     "done": true
   },
@@ -1135,6 +1174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-30 18:13:00 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-25 00:35:24 -0300"
@@ -1199,6 +1244,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-29 00:41:17 -0300",
       "minecraft:taiga": "2025-07-29 00:23:08 -0300",
+      "minecraft:deep_ocean": "2025-07-30 17:59:00 -0300",
       "minecraft:frozen_river": "2025-07-29 00:22:22 -0300",
       "minecraft:sunflower_plains": "2025-07-25 00:58:43 -0300",
       "minecraft:bamboo_jungle": "2025-07-25 00:22:15 -0300",
@@ -1213,7 +1259,9 @@
       "minecraft:dripstone_caves": "2025-07-29 00:23:45 -0300",
       "minecraft:snowy_taiga": "2025-07-29 00:22:32 -0300",
       "minecraft:grove": "2025-07-25 00:06:57 -0300",
+      "minecraft:cold_ocean": "2025-07-30 18:33:03 -0300",
       "minecraft:forest": "2025-07-25 00:22:53 -0300",
+      "minecraft:lush_caves": "2025-07-30 18:44:56 -0300",
       "minecraft:jungle": "2025-07-25 00:22:08 -0300",
       "minecraft:ocean": "2025-07-27 00:33:09 -0300",
       "minecraft:flower_forest": "2025-07-25 01:02:28 -0300",
@@ -1327,6 +1375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-30 18:17:03 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-26 21:10:37 -0300"
@@ -1342,6 +1396,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-07-29 23:16:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-30 19:06:56 -0300"
     },
     "done": true
   },
@@ -1375,6 +1435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-30 18:13:22 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-07-25 01:18:11 -0300"
@@ -1403,6 +1469,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-07-25 00:29:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-30 18:13:00 -0300"
     },
     "done": true
   },
@@ -1586,6 +1658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-30 18:13:00 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-07-25 00:12:13 -0300"
@@ -1670,6 +1748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-30 19:06:56 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-26 21:10:37 -0300"
@@ -1691,6 +1775,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-07-25 00:20:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-30 19:06:56 -0300"
     },
     "done": true
   },
@@ -1736,6 +1826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-30 17:31:10 -0300"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-25 00:10:13 -0300",
@@ -1748,12 +1844,15 @@
       "potato": "2025-07-28 22:47:01 -0300",
       "mutton": "2025-07-25 00:19:22 -0300",
       "bread": "2025-07-26 22:30:25 -0300",
+      "golden_apple": "2025-07-30 19:07:53 -0300",
       "rotten_flesh": "2025-07-25 00:10:31 -0300",
       "cookie": "2025-07-28 20:51:03 -0300",
       "salmon": "2025-07-28 20:30:23 -0300",
       "melon_slice": "2025-07-28 22:49:12 -0300",
+      "golden_carrot": "2025-07-30 19:08:20 -0300",
       "cooked_rabbit": "2025-07-29 20:36:41 -0300",
       "cooked_chicken": "2025-07-26 21:01:15 -0300",
+      "cod": "2025-07-30 18:17:22 -0300",
       "cooked_salmon": "2025-07-26 22:30:21 -0300",
       "carrot": "2025-07-29 01:22:01 -0300"
     },
@@ -1768,6 +1867,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-29 01:35:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-30 18:13:22 -0300"
     },
     "done": true
   },
@@ -1977,6 +2082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-30 19:06:56 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-07-25 00:08:08 -0300"
@@ -2079,6 +2190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-30 19:15:47 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-26 19:06:34 -0300"
@@ -2169,9 +2286,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-30 19:06:56 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-07-26 22:56:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-30 19:06:56 -0300"
     },
     "done": true
   },
@@ -2265,6 +2394,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-30 19:06:56 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-25 00:12:26 -0300"
@@ -2274,6 +2409,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-26 19:57:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-30 19:06:56 -0300"
     },
     "done": true
   },
@@ -2349,6 +2490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-30 17:31:10 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-26 19:57:39 -0300"
@@ -2370,6 +2517,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-07-25 00:29:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-30 19:06:56 -0300"
     },
     "done": true
   },
@@ -2580,6 +2733,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-26 19:51:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-30 19:15:47 -0300"
     },
     "done": true
   },
@@ -2850,6 +3009,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-07-25 00:32:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-30 19:06:56 -0300"
     },
     "done": true
   },

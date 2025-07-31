@@ -1,71 +1,117 @@
-[29Jul2025 23:06:42.270] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.5.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
-[29Jul2025 23:06:42.274] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 22.0.1 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
-[29Jul2025 23:06:42.434] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Facu/Desktop/chicken-craft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2364!/ Service=ModLauncher Env=SERVER
-[29Jul2025 23:06:42.679] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Facu\Desktop\chicken-craft\libraries\net\minecraftforge\fmlcore\1.19.2-43.5.0\fmlcore-1.19.2-43.5.0.jar is missing mods.toml file
-[29Jul2025 23:06:42.684] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Facu\Desktop\chicken-craft\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.5.0\javafmllanguage-1.19.2-43.5.0.jar is missing mods.toml file
-[29Jul2025 23:06:42.687] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Facu\Desktop\chicken-craft\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.5.0\lowcodelanguage-1.19.2-43.5.0.jar is missing mods.toml file
-[29Jul2025 23:06:42.692] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Facu\Desktop\chicken-craft\libraries\net\minecraftforge\mclanguage\1.19.2-43.5.0\mclanguage-1.19.2-43.5.0.jar is missing mods.toml file
-[29Jul2025 23:06:42.773] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[29Jul2025 23:06:44.033] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[29Jul2025 23:06:44.040] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[29Jul2025 23:06:47.771] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[29Jul2025 23:06:49.386] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.5.0, for MC 1.19.2 with MCP 20220805.130853
-[29Jul2025 23:06:49.386] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.5.0 Initialized
-[29Jul2025 23:06:49.858] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[29Jul2025 23:06:49.865] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[29Jul2025 23:06:50.171] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Jul2025 23:06:50.711] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[29Jul2025 23:06:51.168] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/Facu/Desktop/chicken-craft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23108!/assets/.mcassetsroot' uses unexpected schema
-[29Jul2025 23:06:51.169] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/Facu/Desktop/chicken-craft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23108!/data/.mcassetsroot' uses unexpected schema
-[29Jul2025 23:06:51.199] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 43.5.0 Target: null
-[29Jul2025 23:06:53.262] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[29Jul2025 23:06:53.964] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1179 advancements
-[29Jul2025 23:06:53.967] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[29Jul2025 23:06:54.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[29Jul2025 23:06:54.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Jul2025 23:06:54.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Jul2025 23:06:54.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Jul2025 23:06:55.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Jul2025 23:06:55.045] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
-[29Jul2025 23:06:55.207] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[29Jul2025 23:06:55.208] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[29Jul2025 23:06:55.210] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[29Jul2025 23:06:55.210] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[29Jul2025 23:06:55.210] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[29Jul2025 23:06:55.212] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[29Jul2025 23:06:55.212] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[29Jul2025 23:06:55.213] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[29Jul2025 23:06:55.213] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[29Jul2025 23:06:55.213] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[29Jul2025 23:06:55.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29Jul2025 23:06:55.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Jul2025 23:06:59.417] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jul2025 23:06:59.420] [Worker-Main-11/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jul2025 23:06:59.423] [Worker-Main-11/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jul2025 23:06:59.448] [Worker-Main-11/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jul2025 23:06:59.462] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jul2025 23:06:59.474] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jul2025 23:06:59.485] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jul2025 23:06:59.491] [Worker-Main-11/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jul2025 23:06:59.531] [Worker-Main-11/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jul2025 23:07:00.030] [Worker-Main-11/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
-[29Jul2025 23:07:00.429] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4899 ms
-[29Jul2025 23:07:00.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.266s)! For help, type "help"
-[29Jul2025 23:07:00.463] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Jul2025 23:07:22.908] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player facu_142 is 0adb5c1c-6cb7-4d04-ab5e-fa3a993829f2
-[29Jul2025 23:07:24.393] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@234f9797
-[29Jul2025 23:07:24.412] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facu_142[/127.0.0.1:60037] logged in with entity id 83 at (1313.7085764135863, 64.0, -1509.1914752030243)
-[29Jul2025 23:07:24.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 joined the game
-[29Jul2025 23:37:05.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 lost connection: Disconnected
-[29Jul2025 23:37:05.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 left the game
-[29Jul2025 23:37:39.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[29Jul2025 23:37:39.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[29Jul2025 23:37:39.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[29Jul2025 23:37:39.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[29Jul2025 23:37:39.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[29Jul2025 23:37:39.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[29Jul2025 23:37:39.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[29Jul2025 23:37:39.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[29Jul2025 23:37:39.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[29Jul2025 23:37:39.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[29Jul2025 23:37:39.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30jul.2025 19:23:16.111] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.5.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[30jul.2025 19:23:16.116] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.12 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[30jul.2025 19:23:16.280] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/F:/Server/chicken-craft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2364!/ Service=ModLauncher Env=SERVER
+[30jul.2025 19:23:16.510] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file F:\Server\chicken-craft\libraries\net\minecraftforge\fmlcore\1.19.2-43.5.0\fmlcore-1.19.2-43.5.0.jar is missing mods.toml file
+[30jul.2025 19:23:16.515] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file F:\Server\chicken-craft\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.5.0\javafmllanguage-1.19.2-43.5.0.jar is missing mods.toml file
+[30jul.2025 19:23:16.519] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file F:\Server\chicken-craft\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.5.0\lowcodelanguage-1.19.2-43.5.0.jar is missing mods.toml file
+[30jul.2025 19:23:16.524] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file F:\Server\chicken-craft\libraries\net\minecraftforge\mclanguage\1.19.2-43.5.0\mclanguage-1.19.2-43.5.0.jar is missing mods.toml file
+[30jul.2025 19:23:16.602] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[30jul.2025 19:23:17.505] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30jul.2025 19:23:17.510] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[30jul.2025 19:23:20.744] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[30jul.2025 19:23:22.395] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.5.0, for MC 1.19.2 with MCP 20220805.130853
+[30jul.2025 19:23:22.396] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.5.0 Initialized
+[30jul.2025 19:23:22.659] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[30jul.2025 19:23:22.662] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[30jul.2025 19:23:22.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30jul.2025 19:23:23.355] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 43.5.0 Target: null
+[30jul.2025 19:23:23.466] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30jul.2025 19:23:23.968] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/F:/Server/chicken-craft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23108!/assets/.mcassetsroot' uses unexpected schema
+[30jul.2025 19:23:23.968] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/F:/Server/chicken-craft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23108!/data/.mcassetsroot' uses unexpected schema
+[30jul.2025 19:23:26.055] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[30jul.2025 19:23:26.826] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1179 advancements
+[30jul.2025 19:23:26.829] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[30jul.2025 19:23:27.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[30jul.2025 19:23:27.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30jul.2025 19:23:27.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30jul.2025 19:23:27.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30jul.2025 19:23:27.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30jul.2025 19:23:27.867] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[30jul.2025 19:23:28.099] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[30jul.2025 19:23:28.099] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[30jul.2025 19:23:28.100] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[30jul.2025 19:23:28.100] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[30jul.2025 19:23:28.100] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[30jul.2025 19:23:28.101] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[30jul.2025 19:23:28.101] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[30jul.2025 19:23:28.101] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[30jul.2025 19:23:28.102] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[30jul.2025 19:23:28.102] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[30jul.2025 19:23:28.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30jul.2025 19:23:28.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30jul.2025 19:23:30.795] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30jul.2025 19:23:30.796] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30jul.2025 19:23:30.797] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30jul.2025 19:23:30.798] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30jul.2025 19:23:30.798] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30jul.2025 19:23:30.938] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30jul.2025 19:23:31.439] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
+[30jul.2025 19:23:31.757] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3319 ms
+[30jul.2025 19:23:31.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.684s)! For help, type "help"
+[30jul.2025 19:23:31.765] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30jul.2025 19:23:38.311] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ninozalaya is dca913ab-a38a-4863-9e8f-385b8f6ca360
+[30jul.2025 19:23:39.704] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5f2202b9
+[30jul.2025 19:23:39.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ninozalaya[/26.246.203.63:49493] logged in with entity id 83 at (1308.800000011921, 65.5, -1508.604356150546)
+[30jul.2025 19:23:39.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ninozalaya joined the game
+[30jul.2025 19:23:43.830] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player facu_142 is 0adb5c1c-6cb7-4d04-ab5e-fa3a993829f2
+[30jul.2025 19:23:45.177] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b8f2e00
+[30jul.2025 19:23:45.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facu_142[/26.91.161.184:64054] logged in with entity id 473 at (1312.5, 68.5625, -1509.5)
+[30jul.2025 19:23:45.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 joined the game
+[30jul.2025 19:44:46.559] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/188, l='ServerLevel[world]', x=1362.71, y=65.00, z=-1484.37] died, message: 'Villager was slain by facu_142'
+[30jul.2025 19:47:20.507] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/189, l='ServerLevel[world]', x=1383.58, y=67.00, z=-1482.31] died, message: 'Villager was slain by facu_142'
+[30jul.2025 19:53:34.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ninozalaya has made the advancement [Enchanter]
+[30jul.2025 20:01:22.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ninozalaya> zzz
+[30jul.2025 20:01:29.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <facu_142> zzz
+[30jul.2025 20:11:24.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/156, l='ServerLevel[world]', x=1347.70, y=64.00, z=-1483.30] died, message: 'Librarian was slain by facu_142'
+[30jul.2025 20:13:45.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ninozalaya was slain by Iron Golem
+[30jul.2025 20:18:45.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ninozalaya) moved wrongly! 0.29730482748232134
+[30jul.2025 20:18:45.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ninozalaya) moved wrongly! 0.40245997877718764
+[30jul.2025 20:22:20.846] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dante547 is 5d46072c-3ab5-4e9e-a1a7-61d518cd6f9a
+[30jul.2025 20:22:23.253] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@70a2f682
+[30jul.2025 20:22:23.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dante547[/26.82.230.226:50946] logged in with entity id 12259 at (1311.4979191202908, 64.0, -1507.9801371488988)
+[30jul.2025 20:22:23.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante547 joined the game
+[30jul.2025 20:23:50.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dante547: Teleported Dante547 to ninozalaya]
+[30jul.2025 20:30:13.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante547 has made the advancement [We Need to Go Deeper]
+[30jul.2025 20:39:23.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ninozalaya) moved wrongly! 0.27183073668174984
+[30jul.2025 20:39:56.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ninozalaya) moved wrongly! 0.25269581566681154
+[30jul.2025 20:39:57.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ninozalaya) moved wrongly! 0.29874161226280194
+[30jul.2025 20:39:58.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ninozalaya) moved wrongly! 0.4043216611389653
+[30jul.2025 20:41:18.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to ninozalaya]
+[30jul.2025 20:41:18.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 moved too quickly! 5.213752812383973,37.0,227.5247740016332
+[30jul.2025 20:41:24.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dante547: Teleported Dante547 to ninozalaya]
+[30jul.2025 20:44:40.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ninozalaya) moved wrongly! 0.25437277438550154
+[30jul.2025 20:45:14.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dante547: Teleported Dante547 to ninozalaya]
+[30jul.2025 20:46:07.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to ninozalaya]
+[30jul.2025 20:46:07.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 moved too quickly! 83.8151630057996,16.0,14.674677384643019
+[30jul.2025 20:48:27.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dante547: Teleported Dante547 to ninozalaya]
+[30jul.2025 20:48:43.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <facu_142> zzz zzz zzzz
+[30jul.2025 20:48:56.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Dante547> zz
+[30jul.2025 20:55:12.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ninozalaya: Teleported ninozalaya to Dante547]
+[30jul.2025 20:55:12.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninozalaya moved too quickly! 65.56643034102694,48.0,196.05924779794918
+[30jul.2025 20:55:12.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninozalaya moved too quickly! 65.56643034102694,48.0,196.05924779794918
+[30jul.2025 20:55:33.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ninozalaya: Teleported ninozalaya to facu_142]
+[30jul.2025 20:55:33.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninozalaya moved too quickly! -28.852653657975452,-29.0,-162.54222398084312
+[30jul.2025 20:55:39.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dante547: Teleported Dante547 to ninozalaya]
+[30jul.2025 20:57:32.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ninozalaya) moved wrongly! 0.4253516728258546
+[30jul.2025 20:58:26.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dante547: Teleported Dante547 to facu_142]
+[30jul.2025 20:58:44.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dante547 lost connection: Disconnected
+[30jul.2025 20:58:44.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dante547 left the game
+[30jul.2025 21:00:56.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facu_142: Teleported facu_142 to ninozalaya]
+[30jul.2025 21:00:56.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 moved too quickly! 61.02963534059313,56.7250000178814,78.7605623398681
+[30jul.2025 21:14:20.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ninozalaya lost connection: Disconnected
+[30jul.2025 21:14:20.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ninozalaya left the game
+[30jul.2025 21:15:04.378] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facu_142 lost connection: Disconnected
+[30jul.2025 21:15:04.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facu_142 left the game
+[30jul.2025 21:15:07.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30jul.2025 21:15:07.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[30jul.2025 21:15:16.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30jul.2025 21:15:16.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30jul.2025 21:15:16.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30jul.2025 21:15:16.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30jul.2025 21:15:17.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30jul.2025 21:15:17.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30jul.2025 21:15:17.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30jul.2025 21:15:17.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30jul.2025 21:15:17.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30jul.2025 21:15:17.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30jul.2025 21:15:17.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
